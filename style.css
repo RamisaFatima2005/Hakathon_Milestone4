@@ -7,10 +7,10 @@ body {
   width: 50%;
   margin: 40px auto;
   padding: 20px;
-  background-color: #e9cece;
+  background-color: #a09797;
   border: 10px solid #000000;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(199, 47, 47, 0.938);
+  box-shadow: 0 0 10px rgba(63, 61, 61, 0.938);
 }
 
 #resume-form label {
@@ -41,10 +41,10 @@ body {
   width: 50%;
   margin: 40px auto;
   padding: 20px;
-  background-color: #80e2b5;
+  background-color: #909492;
   border: 5px solid #070606;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(207, 20, 20, 0.911);
+  box-shadow: 0 0 10px rgba(99, 97, 97, 0.911);
 }
 
 #resume h1, #resume h2 {
@@ -56,7 +56,7 @@ body {
 }
 
 #edit-resume {
-  background-color: #df5985;
+  background-color: #a19e9f;
   color: #000000;
   padding: 10px;
   border: 3px solid #070606;
